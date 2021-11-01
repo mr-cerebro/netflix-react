@@ -1,0 +1,29 @@
+.footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: auto;
+    padding: 4rem 0;
+}
+
+.footer .one {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: auto;
+    padding: 4rem 0;
+    width: 25%;
+}
+
+.footer .one li {
+    padding: 7px 0;
+}
+
+.footer .one li a {
+    color: #ccc;
+    text-decoration: none;
+}
+
+.footer .one li a:hover {
+    border-bottom: 1px solid #ccc;
+}

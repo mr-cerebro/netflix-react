@@ -1,5 +1,6 @@
 import Banner2 from "./Banner-2/Banner-2";
 import Banner from "./Banner/Banner";
+import Footer from "./Footer/Footer";
 import Header from "./Header/Header";
 import List from "./List/List";
 import Parte1 from "./Parte-1/Parte-1";
@@ -18,6 +19,7 @@ const App = () => {
       <Parte4 />
       <List />
       <Banner2 />
+      <Footer />
     </div>
   )
 }
