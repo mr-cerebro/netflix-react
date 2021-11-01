@@ -1,5 +1,6 @@
 import Banner from "./Banner/Banner";
 import Header from "./Header/Header";
+import List from "./List/List";
 import Parte1 from "./Parte-1/Parte-1";
 import Parte2 from "./Parte-2/Parte-2";
 import Parte3 from "./Parte-3/Parte-3";
@@ -14,6 +15,7 @@ const App = () => {
       <Parte2 />
       <Parte3 />
       <Parte4 />
+      <List />
     </div>
   )
 }
