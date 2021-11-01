@@ -21,3 +21,11 @@
     font-size: 1.2rem;
     color: #fff;
 }
+
+.parte-2 .img {
+    width: 45%;
+}
+
+.parte-2 .img img {
+    width: 100%;
+}
