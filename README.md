@@ -29,11 +29,22 @@ Serve para inicializar o projeto no browser (navegador)
 
 Teremos directorios e arquivos.
 
-- [x] public
-  - `index.html`
-- [x] src
-  - `App.js`
-  - index.js
-  - `App.cs`
-  - `index.css`
+- [x] netflix-react
+  - [x] public
+    - `index.html`
+  - [x] src
+    - [x] components
+      - [x] img
+      - [x] Parte-1
+        - `Parte-1.js`
+        - `parte-1.css`
+      - [x] Header
+        - `Header.js`
+        - `header.css`
+      - [x] Banner
+        - `Banner.js`
+        - `banner.css`
+    - `App.js`
+    - `index.js`
+    - `index.css`
 
