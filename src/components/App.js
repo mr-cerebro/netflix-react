@@ -1,3 +1,4 @@
+import Banner2 from "./Banner-2/Banner-2";
 import Banner from "./Banner/Banner";
 import Header from "./Header/Header";
 import List from "./List/List";
@@ -16,6 +17,7 @@ const App = () => {
       <Parte3 />
       <Parte4 />
       <List />
+      <Banner2 />
     </div>
   )
 }
